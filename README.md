@@ -35,8 +35,10 @@ To check how this application was created, user will have to follow the followin
 
 ## Screenshot
 Deployed App Homepage:
+![deployed_app_homepage_screenshot](https://user-images.githubusercontent.com/61192734/99870325-279b4a80-2b87-11eb-9d83-66b32166a8ce.png)
 
-
+Deployed App Workout Dashboard:
+![deployed_app_dashboard_screenshot](https://user-images.githubusercontent.com/61192734/99870324-266a1d80-2b87-11eb-897b-0530ac58e3d1.png)
 
 ## Links
 

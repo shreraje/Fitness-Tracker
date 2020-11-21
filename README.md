@@ -8,7 +8,7 @@ This project creates a workout tracker app which will require Mongo database wit
 
 ## Table of Contents
 * [Description](#description)
-* [User Story](#userstory)
+* [User Story](#user-story)
 * [Installation](#installation)
 * [Technologies](#technologies)
 * [Contribution](#contribution)

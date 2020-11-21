@@ -28,7 +28,7 @@ To check how this application was created, user will have to follow the followin
 - Run "node server.js" or "nodemon server.js" or "npm start" from the command line.
 - A message "Server listening on: http://localhost:3000" will display on the command line.
 - Now, press "CTRL" & click on "http://localhost:8080", browser will open with this app.
-- Also, if you want to try out how app works, click on this link- https://polar-sea-69480.herokuapp.com/?id=5fb8b4d525f0530017cb2c9f
+- Also, if you want to try out how app works, click on this link- https://polar-sea-69480.herokuapp.com/
 
 ## Technologies
 - Node.js, Mongodb, Mongoose, Express.js, JavaScript, HTML5, CSS3, etc.
@@ -42,7 +42,7 @@ Deployed App Workout Dashboard:
 
 ## Links
 
-Heroku Deployed App Link: https://polar-sea-69480.herokuapp.com/?id=5fb8b4d525f0530017cb2c9f
+Heroku Deployed App Link: https://polar-sea-69480.herokuapp.com/
 
 GitHub Repo: https://github.com/shreraje/Fitness-Tracker
 
